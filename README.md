@@ -9,6 +9,6 @@ Sur cette édition 2024, j'ai eu la mauvaise surprise de recevoir le mail "Suspi
 ![Mail](https://github.com/ReZ3R0/404CTF-2024/blob/main/Images/Mail.png?raw=true)
 
 Après avoir contacté l'organisation il en ressort que leur logiciel 
-#+html: <details><summary>:no_pedestrians:</summary>
+<details><summary>:no_pedestrians:</summary>
 spoiler test
-#+html: </details>
+</details>
