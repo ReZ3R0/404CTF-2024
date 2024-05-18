@@ -16,7 +16,7 @@ Impressionnant ! :scream: :heart_eyes: 🤩
 
 ![Impr](https://github.com/ReZ3R0/404CTF-2024/blob/main/Images/That_Escalated_Quickly/Imp.png?raw=true)
 
-Je suis perdu dans mes lectures je découvre le grimpeur... J'adore Hallucinant !
+Je suis perdu dans mes lectures. Je découvre le grimpeur... J'adore Hallucinant !
 
 Bon revenons à notre mission
 
