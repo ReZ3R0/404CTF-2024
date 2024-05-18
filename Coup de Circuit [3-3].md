@@ -4,7 +4,7 @@ Sur le Panneau de contrpole on voit: **BatteC2**
 
 ![Panel](https://github.com/ReZ3R0/404CTF-2024/blob/main/Images/Panel.png?raw=true)
 
-Rapidement j'ai eu l'idée d'aller sur Github voir si nous avions quelques chose; Bingo, Brigitte Heubbe alias BribriTireuse semble être à l'origine de ce command and control framework :joy:
+Rapidement j'ai eu l'idée d'aller sur Github voir si nous avions quelques chose; Bingo, **Brigitte Heubbe** alias **BribriTireuse** semble être à l'origine de ce command and control framework :joy:
 
 https://github.com/BribriTireuse/BatteC2
 
