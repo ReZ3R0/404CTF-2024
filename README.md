@@ -18,4 +18,9 @@ Vous verrez plus tard que **Coup de circuit 3/3** n'était vraiment pas compliqu
 
 ![Discord](https://github.com/ReZ3R0/404CTF-2024/blob/main/Images/Discord.png?raw=true)
 
+Un peu d'amour dans ce monde de brutes...
+
+![Discord02](https://github.com/ReZ3R0/404CTF-2024/blob/main/Images/Discord02.png?raw=true)
+
+À méditer: Faut-il prévoir 2 comptes lors de l'inscription ?... :eyes:
 
