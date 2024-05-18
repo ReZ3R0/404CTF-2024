@@ -36,10 +36,15 @@ Je ne connais pas ce terme "zammechat"
 
 On fait quelques recherches Google "Patrick Edlinger zammechat" :arrow_right: Rien
 
+Google "zammechat" nous donne un lien vers:
 
 https://en.wiktionary.org/wiki/Appendix:A_Clockwork_Orange
 
+Qui parle de Anthony_Burgess:
+
 https://en.wikipedia.org/wiki/Anthony_Burgess
+
+Qui a notamment écrit:
 
 ![AB-OM](https://github.com/ReZ3R0/404CTF-2024/blob/main/Images/That_Escalated_Quickly/L-orange-mecanique.jpg?raw=true)
 
