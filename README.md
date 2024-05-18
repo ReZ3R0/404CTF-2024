@@ -10,5 +10,5 @@ Sur cette édition 2024, j'ai eu la mauvaise surprise de recevoir le mail "Suspi
 
 Après avoir contacté l'organisation il en ressort que leur logiciel 
 <details><summary>:no_pedestrians:</summary>
-spoiler test
+Ou une personne jalouse parceque vous êtes devant elle sur Root-Me ? (on ne sais jamais !) :joy:
 </details>
