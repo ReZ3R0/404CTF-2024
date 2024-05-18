@@ -6,9 +6,8 @@ Nous avons cette photo déchirée:
 
 ![03](https://github.com/ReZ3R0/404CTF-2024/blob/main/Images/That_Escalated_Quickly/PhotoD.png?raw=true)
 
-Rapidement on peut trouver la correspondance avec google rechercher par image:
+On peut trouver la correspondance avec google rechercher par image:
 
-Rapidement je trouve la correspondance:
 ![04](https://github.com/ReZ3R0/404CTF-2024/blob/main/Images/That_Escalated_Quickly/PhotoPasD.png?raw=true)
 
 $\textcolor{orange}{\text{C'est Patrick Edlinger.}}$
