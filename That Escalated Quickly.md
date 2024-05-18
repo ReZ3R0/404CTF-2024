@@ -36,6 +36,7 @@ On fait quelques recherches Google "Patrick Edlinger zammechat" :arrow_right: Ri
 
 
 https://en.wiktionary.org/wiki/Appendix:A_Clockwork_Orange
+
 https://en.wikipedia.org/wiki/Anthony_Burgess
 
 ![AB-OM](https://github.com/ReZ3R0/404CTF-2024/blob/main/Images/That_Escalated_Quickly/L-orange-mecanique.jpg?raw=true)
