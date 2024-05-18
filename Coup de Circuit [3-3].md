@@ -10,9 +10,12 @@ https://github.com/BribriTireuse/BatteC2
 
 À ce moment du challenge je ne suis pas trop fier de moi car je me suis fait avoir comme un bleu :sweat_smile:
 
-Dans https://github.com/BribriTireuse/BatteC2/blob/main/c2.py on peut voir un commentaire: self.files_counter += 1  # Smyler's note: race condition goes brrrrr
+Dans https://github.com/BribriTireuse/BatteC2/blob/main/c2.py on peut voir un commentaire: 
 
-Une race condition à exploiter ? ! Mais où ? J'ai cherché et je n'ai jamais trouvé... Je pars trop loin et faut reprendre de reZ3R0 :innocent:
+```python3
+self.files_counter += 1  # Smyler's note: race condition goes brrrrr
+```
+What ! Une race condition à exploiter ?  Mais où ? :scream: J'ai cherché et je n'ai jamais trouvé... Mouais reZ3R0 tu pars encore une fois trop loin :innocent:
 
 Ho Pu... j'avais pourtant bien vu dans https://github.com/BribriTireuse/BatteC2/blob/main/app.py 
 
