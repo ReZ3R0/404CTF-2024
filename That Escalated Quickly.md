@@ -7,7 +7,7 @@ Nous avons cette photo déchirée:
 ![03](https://github.com/ReZ3R0/404CTF-2024/blob/main/Images/That_Escalated_Quickly/PhotoD.png?raw=true)
 
 On peut trouver la correspondance avec google rechercher par image:
-
+https://alpinemag.fr/patrick-edlinger-legende-escalade/
 ![04](https://github.com/ReZ3R0/404CTF-2024/blob/main/Images/That_Escalated_Quickly/PhotoPasD.png?raw=true)
 
 $\textcolor{orange}{\text{C'est Patrick Edlinger.}}$
