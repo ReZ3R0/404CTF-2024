@@ -2,7 +2,7 @@
 Write-Up du 404CTF-2024
 
 
-$\textcolor{green}{\text{IMPORTANT}}$ à prévoir lors de l'inscription:
+$\textcolor{red}{\text{IMPORTANT}}$ à prévoir lors de l'inscription:
 
 Sur cette édition 2024, j'ai eu la mauvaise surprise de recevoir le mail "Suspicion de triche"
 
