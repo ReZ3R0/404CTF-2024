@@ -24,3 +24,4 @@ Un peu d'amour dans ce monde de brutes...
 
 À méditer: Faut-il prévoir 2 comptes lors de l'inscription ?... :eyes:
 
+## Je n'ai pas reçu l'invitation pour aller au $\textcolor{orange}{\text{salon Vivatech}} :disappointed_relieved:
