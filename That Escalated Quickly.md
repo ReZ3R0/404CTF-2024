@@ -48,6 +48,7 @@ Qui a notamment écrit:
 
 ![AB-OM](https://github.com/ReZ3R0/404CTF-2024/blob/main/Images/That_Escalated_Quickly/L-orange-mecanique.jpg?raw=true)
 
+Ok ok dans l'article sur lui plus haut on dit que ``En 1989, il réalisait Orange Mécanique, 8a, au Cimaï, en solo intégral``.
 
 
 ![05](https://github.com/ReZ3R0/404CTF-2024/blob/main/Images/That_Escalated_Quickly/wiki.png?raw=true)
