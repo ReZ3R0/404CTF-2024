@@ -39,7 +39,7 @@ def download_file(uuid):
 
 Avec l'énoncé du challenge, nous savons que le fichier est nommé: Secret-Mojo.pdf
 
-Allez plus qu'à ce rendre sur: https://panel-5d4213f3bf078fb1656a3db8348282f482601690.takemeouttotheballgame.space/static/227eb601e5bf8ea0c5da13a26be3eba2e5fea2cd7d75dcd2951cf615dd790da5/Secret-Mojo.pdf
+Allez, il n'y a plus qu'à ce rendre sur: https://panel-5d4213f3bf078fb1656a3db8348282f482601690.takemeouttotheballgame.space/static/227eb601e5bf8ea0c5da13a26be3eba2e5fea2cd7d75dcd2951cf615dd790da5/Secret-Mojo.pdf
 
 ![Flag-Mojo](https://github.com/ReZ3R0/404CTF-2024/blob/main/Images/FlagMojo.png?raw=true)
 
