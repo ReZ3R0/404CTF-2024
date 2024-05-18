@@ -33,10 +33,18 @@ Dans l'angle inferieur droite on peut appercevoir "**N5**"
  
  ![d471](https://github.com/ReZ3R0/404CTF-2024/blob/main/Images/D471.png?raw=true)
 
+ https://www.google.fr/maps/@46.7557243,5.9340233,3a,90y,326.36h,89.69t/data=!3m6!1e1!3m4!1sBD37giOwxsXSxHglA4DV5w!2e0!7i16384!8i8192?entry=ttu
+
  Ok passons à la 3ème photo:
 
 ![03](https://github.com/ReZ3R0/404CTF-2024/blob/main/Images/003.jpg?raw=true)
 
+Nous pouvons voir certe un chantier mais aussi la montagne derrière, il suffit de se balader sur Maps en mode "vue Sattelite" pour trouver l'endroit du cliché:
+
+https://www.google.fr/maps/@46.7489004,5.925753,3a,75y,253.82h,92.03t/data=!3m7!1e1!3m5!1sNxc73J11zTdM4F7ZgWix9w!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3DNxc73J11zTdM4F7ZgWix9w%26cb_client%3Dmaps_sv.tactile.gps%26w%3D203%26h%3D100%26yaw%3D260.44513%26pitch%3D0%26thumbfov%3D100!7i16384!8i8192?entry=ttu
+
+
+![BoisDormant](https://github.com/ReZ3R0/404CTF-2024/blob/main/Images/BoisDormant.png?raw=true)
 
 
 
