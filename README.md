@@ -12,7 +12,7 @@ Après avoir contacté l'organisation il en ressort qu'ils ont repéré une anom
 <details><summary>:no_pedestrians:</summary>
 Ou une personne jalouse parceque vous êtes devant elle sur Root-Me ? (on ne sais jamais !) :joy:
 </details>
-Vous verrez plus tard que **Coup de circuit 3/3** n'était vraiment pas compliqué et pouvait figurer dans la catégorie **Renseignement en sources ouvertes**
+Vous verrez plus tard que __Coup de circuit 3/3__ n'était vraiment pas compliqué et pouvait figurer dans la catégorie __Renseignement en sources ouvertes__
 
 ![Discord](https://github.com/ReZ3R0/404CTF-2024/blob/main/Images/Discord.png?raw=true)
 
