@@ -22,5 +22,24 @@ Bon revenons à notre mission
 
 le flag prend forme: **404CTF{patrick-edlinger_ _ _ }**
 
+## La seconde question Q2:
+```
+2. Mais oui c'était donc cette  personne !  
+Lors de la plus zammechat de ses ascensions, 
+elle était pas  loin d'un joli lieu touristique naturel... 
+Mais lequel ?  Trouvez ce lieu.
+```
+
+Je ne connais pas ce terme "zammechat" 
+
+On fait quelques recherches Google "Patrick Edlinger zammechat" :arrow_right: Rien
+
+
+https://en.wiktionary.org/wiki/Appendix:A_Clockwork_Orange
+https://en.wikipedia.org/wiki/Anthony_Burgess
+
+![AB-OM](https://github.com/ReZ3R0/404CTF-2024/blob/main/Images/That_Escalated_Quickly/L-orange-mecanique.jpg?raw=true)
+
+
 
 ![05](https://github.com/ReZ3R0/404CTF-2024/blob/main/Images/That_Escalated_Quickly/wiki.png?raw=true)
