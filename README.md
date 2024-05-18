@@ -1,5 +1,5 @@
 # $\textcolor{yellow}{\text{404CTF - 2024}}$
-Write-Up du 404CTF-2024
+
 
 
 $\textcolor{red}{\text{IMPORTANT}}$ à prévoir lors de l'inscription:
