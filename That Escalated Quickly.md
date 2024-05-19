@@ -1,4 +1,3 @@
-En cours de Redac ...
 
 ![01](https://github.com/ReZ3R0/404CTF-2024/blob/main/Images/That_Escalated_Quickly/TEQ000.png?raw=true)
 
@@ -75,7 +74,7 @@ com /rien
 ect...
 ```
 
-Caume ne me donne rien, mais [Côme](https://www.google.fr/maps/place/22100+C%C3%B4me,+Italie/@45.8005881,9.0442288,13z/data=!3m1!4b1!4m6!3m5!1s0x47869c481027ed63:0xb99b96af785ff524!8m2!3d45.8063817!4d9.0851867!16zL20vMGdneXI?entry=ttu) en Italie est à 1h en train de Milan:
+Caume ne me donne rien, mais [Côme](https://www.google.fr/maps/place/22100+C%C3%B4me,+Italie/@45.8005881,9.0442288,13z/data=!3m1!4b1!4m6!3m5!1s0x47869c481027ed63:0xb99b96af785ff524!8m2!3d45.8063817!4d9.0851867!16zL20vMGdneXI?entry=ttu) en Italie est à moins de 1h en train de Milan:
 
 https://www.sncf-connect.com/train/horaires/milan/come
 
