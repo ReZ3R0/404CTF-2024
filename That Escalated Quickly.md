@@ -75,7 +75,32 @@ com /rien
 ect...
 ```
 
-Caume ne me donne rien, mais [Côme](https://www.google.fr/maps/place/22100+C%C3%B4me,+Italie/@45.8005881,9.0442288,13z/data=!3m1!4b1!4m6!3m5!1s0x47869c481027ed63:0xb99b96af785ff524!8m2!3d45.8063817!4d9.0851867!16zL20vMGdneXI?entry=ttu) en Italie est à 1h en train de Milan.
+Caume ne me donne rien, mais [Côme](https://www.google.fr/maps/place/22100+C%C3%B4me,+Italie/@45.8005881,9.0442288,13z/data=!3m1!4b1!4m6!3m5!1s0x47869c481027ed63:0xb99b96af785ff524!8m2!3d45.8063817!4d9.0851867!16zL20vMGdneXI?entry=ttu) en Italie est à 1h en train de Milan:
 
+https://www.sncf-connect.com/train/horaires/milan/come
+
+![Milan-Come](https://github.com/ReZ3R0/404CTF-2024/blob/main/Images/That_Escalated_Quickly/Milan-Come-Train.png?raw=true)
+
+Je poursuit avec le Flag: **404CTF{patrick-edlinger_mont-caume_milan_  }**
+
+```
+La quatrième question Q4:
+
+4. Fort de vos découvertes, vous vous sentez en plein élan sportif !
+Vous voulez donc effectuer une longue marche entre cette ville et celle juste en dessous dans le classement des villes par taille de population.
+Dans quel pays seriez-vous à mi-chemin de votre trajet ? Trouvez ce pays.
+```
+Ici nous avons la Liste des villes et agglomérations les plus peuplées:
+
+https://fr.wikipedia.org/wiki/Liste_des_villes_et_agglom%C3%A9rations_les_plus_peupl%C3%A9es
 
 ![05](https://github.com/ReZ3R0/404CTF-2024/blob/main/Images/That_Escalated_Quickly/wiki.png?raw=true)
+
+Il suffit d'utiliser Maps et Itinéraire. J'ai d'abord soumis avec la Slovénie et ensuite ajusté avec la Croatie. :sweat_smile:
+
+https://www.google.fr/maps/dir/Sofia,+Bulgarie/Milan,+Italie/@44.2361379,10.9701667,6z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x40aa8682cb317bf5:0x400a01269bf5e60!2m2!1d23.3218675!2d42.6977082!1m5!1m1!1s0x4786c1493f1275e7:0x3cffcd13c6740e8d!2m2!1d9.1824027!2d45.468503!3e2?entry=ttu
+
+![MS](https://github.com/ReZ3R0/404CTF-2024/blob/main/Images/That_Escalated_Quickly/Milan-Sofia.png?raw=true)
+
+Flag: **404CTF{patrick-edlinger_mont-caume_milan_croatie}**
+
