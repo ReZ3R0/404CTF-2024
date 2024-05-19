@@ -50,5 +50,7 @@ Qui a notamment écrit:
 
 Ok ok dans l'article sur lui plus haut on dit que ``En 1989, il réalisait Orange Mécanique, 8a, au Cimaï, en solo intégral``.
 
+Proche du Cimaï nous avons Le [mont Caume](https://fr.wikipedia.org/wiki/Mont_Caume) qui est le point culminant des Monts toulonnais, avec une altitude de 801 mètres.
+
 
 ![05](https://github.com/ReZ3R0/404CTF-2024/blob/main/Images/That_Escalated_Quickly/wiki.png?raw=true)
