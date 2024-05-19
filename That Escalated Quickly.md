@@ -51,6 +51,31 @@ Qui a notamment écrit:
 Ok ok dans l'article sur lui plus haut on dit que ``En 1989, il réalisait Orange Mécanique, 8a, au Cimaï, en solo intégral``.
 
 Proche du Cimaï nous avons Le [mont Caume](https://fr.wikipedia.org/wiki/Mont_Caume) qui est le point culminant des Monts toulonnais, avec une altitude de 801 mètres.
+je vais retenir ce lieu pour la Q2.
+
+ce qui nous donne à présent dans le flag: **404CTF{patrick-edlinger_mont-caume_  _  }**
+
+```
+La troisième question Q3:
+
+3. Ce lieu trouvé, vous vous souvenez  d'un autre lieu touristique homonyme ! 
+Il est possible d'y accéder à  moins d'une heure de train depuis une certaine grande ville. 
+Trouvez cette ville. 
+```
+
+Petites recherches sur Maps:
+```
+homonyme de Caume:
+Caumme /rien
+Caume --> La Caume n'est pas la bonne piste
+Caum /rien
+Comme /rien
+Come --> Donne Côme en Italie
+com /rien
+ect...
+```
+
+Caume ne me donne rien, mais [Côme](https://www.google.fr/maps/place/22100+C%C3%B4me,+Italie/@45.8005881,9.0442288,13z/data=!3m1!4b1!4m6!3m5!1s0x47869c481027ed63:0xb99b96af785ff524!8m2!3d45.8063817!4d9.0851867!16zL20vMGdneXI?entry=ttu) en Italie est à 1h en train de Milan.
 
 
 ![05](https://github.com/ReZ3R0/404CTF-2024/blob/main/Images/That_Escalated_Quickly/wiki.png?raw=true)
