@@ -24,9 +24,8 @@ carrier_freq = 7000     # Fréquence de la porteuse en Hz
 
 signal = np.fromfile(file, dtype=np.float32)
 ```
-  - numpy est utilisé pour manipuler les données.
-  - PIL est utilisé pour manipuler les formats de fichiers d'image.
-  - Le fichier signal est lu en tant que données de type float32.
+  - J'utilise numpy et PIL manipuler les données.
+  - Le fichier signal est lu en tant que données float32.
 
 ![flag](https://github.com/ReZ3R0/404CTF-2024/blob/main/Images/Flag_1-2_M.png?raw=true)
 
