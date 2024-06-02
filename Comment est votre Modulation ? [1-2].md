@@ -66,6 +66,40 @@ except IOError as e:
 - Ce tampon est ensuite utilisé pour tenter d'ouvrir l'image.
 - Si les données décodées forment une image valide, elle est enregistrée. Sinon, j'affiche une une erreur.
 
+*Script complet:*
+
+```python3
+import numpy as np
+from PIL import Image
+import io
+
+file = 'flag.raw'
+
+sampling_rate = 350000  # Fréquence d'échantillonnage en Hz
+symbol_rate = 1000      # Débit en symboles/sec
+carrier_freq = 7000     # Fréquence de la porteuse en Hz
+
+signal = np.fromfile(file, dtype=np.float32)
+
+points_per_symbol = int(sampling_rate / symbol_rate)
+
+decoded_values = []
+for i in range(125, len(signal), points_per_symbol):
+    amplitude = abs(signal[i])  # Valeur absolue pour prendre l'amplitude
+    decoded = round(amplitude * (256 - 1))
+    decoded_values.append(decoded)
+ 
+png_buffer = bytes(decoded_values)
+
+try:
+    image = Image.open(io.BytesIO(png_buffer))
+    image_path = 'flag.png'
+    image.save(image_path)
+    print(f"flag lisible dans flag.png")
+except IOError as e:
+    print(f"Erreur: {e}")
+```
+
 ![flag](https://github.com/ReZ3R0/404CTF-2024/blob/main/Images/Flag_1-2_M.png?raw=true)
 
 
