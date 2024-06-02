@@ -1,6 +1,7 @@
 ![1-2M](https://github.com/ReZ3R0/404CTF-2024/blob/main/Images/1-2_M.png?raw=true)
 
-**Fichier:
+*Fichier:*
+
 [flag.raw](https://github.com/ReZ3R0/404CTF-2024/blob/main/Files/flag.raw)
 
 ## Résolution du challenge avec Python:
