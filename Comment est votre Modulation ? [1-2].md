@@ -4,6 +4,7 @@
 
 [flag.raw](https://github.com/ReZ3R0/404CTF-2024/blob/main/Files/flag.raw)
 
+
 ## Résolution du challenge avec Python:
 
 - L'indice "ASK" : Nous indique que la méthode de modulation utilisée est de type (Amplitude Shift Keying, ASK), où la porteuse change d'amplitude selon les données à transmettre.
@@ -28,6 +29,7 @@ signal = np.fromfile(file, dtype=np.float32)
   - Le fichier signal est lu en tant que données float32.
 
 
+
 ### Traitement du signal
 
 ```python3
@@ -45,7 +47,7 @@ for i in range(125, len(signal), points_per_symbol):
     decoded_values.append(decoded)
 ```
 - Après plusieurs tests on commence à l'index 125 pour capturer l'amplitude maximale de ce symbole.
-- Calcul de l'amplitude et décodage abs(signal[i]) prend la valeur absolue du point de signal à l'indice i.
+- Calcul de l'amplitude et décodage $\textcolor{purple}{\text{abs(signal[i])}}$ prend la valeur absolue du point de signal à l'indice i.
   round(amplitude * (256 - 1)) convertit cette amplitude en une valeur entière dans la plage de 0 à 255, en supposant que chaque symbole peut représenter une valeur dans cette plage (valence de 256).
   Ce calcul ajuste l'amplitude du signal à une échelle de 0 à 255, qui est standard pour les valeurs de pixels dans les images en niveaux de gris.
 - Stockage des valeurs décodées qui seront ensuite tentées d'être formées en une image. Chaque valeur dans decoded_values représente un pixel de l'image que l'on tente de reconstruire.
