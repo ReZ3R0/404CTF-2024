@@ -6,8 +6,8 @@
 
 ## Résolution du challenge avec Python:
 
-    - L'indice "ASK" : Nous indique que la méthode de modulation utilisée est de type (Amplitude Shift Keying, ASK), où la porteuse change d'amplitude selon les données à transmettre.
-    - L'objectif est de récupérer les données modulées (probablement une image cachée*), en interprétant correctement le signal brut.
+- L'indice "ASK" : Nous indique que la méthode de modulation utilisée est de type (Amplitude Shift Keying, ASK), où la porteuse change d'amplitude selon les données à transmettre.
+- L'objectif est de récupérer les données modulées (probablement une image cachée*), en interprétant correctement le signal brut.
 
 
 
