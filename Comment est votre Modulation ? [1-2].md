@@ -66,7 +66,7 @@ except IOError as e:
 ```
 - On converties les valeurs décodées en un tampon de bytes.
 - Ce tampon est ensuite utilisé pour tenter d'ouvrir l'image.
-- Si les données décodées forment une image valide, elle est enregistrée. Sinon, j'affiche une une erreur.
+- Si les données décodées forment une image valide, elle est enregistrée. Sinon, j'affiche une erreur.
 
 *Script complet:*
 
@@ -101,6 +101,8 @@ try:
 except IOError as e:
     print(f"Erreur: {e}")
 ```
+
+*flag.png:*
 
 ![flag](https://github.com/ReZ3R0/404CTF-2024/blob/main/Images/Flag_1-2_M.png?raw=true)
 
